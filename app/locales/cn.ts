@@ -200,9 +200,9 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
+      Title: "密钥 Key",
+      SubTitle: "请联系站长或代理商购买",
+      Placeholder: "请输入购买的密钥 Key",
     },
     Model: "模型 (model)",
     Temperature: {
