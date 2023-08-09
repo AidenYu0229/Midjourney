@@ -1,6 +1,6 @@
 export const OWNER = "1";
 export const REPO = "1";
-export const REPO_URL = `https://ssw9noe1h6.feishu.cn/docx/Eooid40EVoHXiMxqqS5cA6DJnpc`;
+export const REPO_URL = `https://skxur3tak2.feishu.cn/wiki/IeXcwozTsiS3hqk1u2QcDHm8nSb`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
