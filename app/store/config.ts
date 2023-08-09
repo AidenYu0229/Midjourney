@@ -126,7 +126,7 @@ export const ALL_MODELS = [
   },
   {
     name: "midjourney", // midjourney
-    available: true,
+    available: false,
   },
 ] as const;
 
