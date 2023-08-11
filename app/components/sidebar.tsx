@@ -121,10 +121,11 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>GPT-Midjourney</div>
         <div className={styles["sidebar-sub-title"]}>
-        无须注册登录，获得【访问密码】即可使用<br />
-关注公众号【AI之翼】购买<br />
-GPT对话和绘画2用<br />
-AI 绘图功能请在对话框输入/mj
+无须注册登录，获得【访问密码】 即可使用<br />
+【访问密码】在公众号【AI之翼】内购买<br />
+【使用说明】点击底部猫咪按钮查看<br />
+AI绘图功能请在对话框输入/mj（空格）<br />
+
 
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
