@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "访问密码不正确或为空，请前往登录页输入，或者前往设置密钥 Key内输入",
   },
   Auth: {
     Title: "需要密码",
@@ -201,7 +201,7 @@ const cn = {
     },
     AccessCode: {
       Title: "密钥 Key",
-      SubTitle: "请联系站长或代理商购买",
+      SubTitle: "请到公众号【AI之翼】购买",
       Placeholder: "请输入购买的密钥 Key",
     },
     Model: "模型 (model)",
