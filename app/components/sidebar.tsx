@@ -119,7 +119,7 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>GPT-Midjourney</div>
+        <div className={styles["sidebar-title"]}>AI小猫</div>
         <div className={styles["sidebar-sub-title"]}>
 无须注册登录，获得【访问密码】 即可使用<br />
 【访问密码】在公众号【AI之翼】内购买<br />
